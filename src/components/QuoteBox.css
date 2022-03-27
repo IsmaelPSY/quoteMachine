@@ -2,13 +2,16 @@
     width: 100vw;
     height: 100vh;
     display: flex;
-    align-items: center;
-    justify-content: center;
+}
+
+.quoteContainer{
+    margin: auto;
+    background-color: #fff;
+    border-radius: 35% 15px;
 }
 
 .quoteBox{
     border-radius: 35% 15px;
-    background-color: #1be7477e;
     width: 50vw;
     color: #1e0c83b0;
     padding: 2em;
@@ -26,3 +29,44 @@
     cursor: pointer;
 }
 
+/* Cambios de color del background */
+
+.container__quoteBox--style01-01{
+    background-color: #e6e4e4;
+}
+
+.container__quoteBox--style01-02{
+    background-color: #1be747ab;
+}
+
+.container__quoteBox--style02-01{
+    background-color: rgb(238, 20, 20);
+}
+
+.container__quoteBox--style02-02{
+    background-color: #3fe262b9;
+}
+
+.container__quoteBox--style03-01{
+    background-color: rgb(160, 13, 160);
+}
+
+.container__quoteBox--style03-02{
+    background-color: #e768137e;
+}
+
+.container__quoteBox--style04-01{
+    background-color: rgb(17, 24, 80);
+}
+
+.container__quoteBox--style04-02{
+    background-color: #0c94b6b0;
+}
+
+.container__quoteBox--style05-01{
+    background-color: rgb(88, 224, 218);
+}
+
+.container__quoteBox--style05-02{
+    background-color: #1be7477e;
+}
