@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quoteBox{
+    border-radius: 35% 15px;
+    background-color: #1be7477e;
+    width: 50vw;
+    color: #1e0c83b0;
+    padding: 2em;
+    box-shadow: 2px 2px 8px #000;
+}
+
+.button{
+    padding: 8px;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    border: 0;
+    outline: 0;
+    box-shadow: 2px 2px 4px grey;
+    cursor: pointer;
+}
+
