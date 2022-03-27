@@ -1,7 +1,25 @@
 {
-    "styles":[
+    "style":[
         {
-            "rojo":""
+            "color1":"container__quoteBox--style01-01",
+            "color2":"container__quoteBox--style01-02"
+        },
+        {
+            "color1":"container__quoteBox--style02-01",
+            "color2":"container__quoteBox--style02-02"
+        },
+        {
+            "color1":"container__quoteBox--style03-01",
+            "color2":"container__quoteBox--style03-02"
+        },
+        {
+            "color1":"container__quoteBox--style04-01",
+            "color2":"container__quoteBox--style04-02"
+        },
+        {
+            "color1":"container__quoteBox--style05-01",
+            "color2":"container__quoteBox--style05-02"
         }
+        
     ]
 }
