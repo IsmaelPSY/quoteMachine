@@ -9,7 +9,6 @@ on social media: twitter
 - QuoteAuthor
 - QuoteText
 
-
 ## Installation
 ```bash
 git clone https://github.com/IsmaelPSY/quoteMachine.git
@@ -17,4 +16,6 @@ cd quoteMachine
 npm install
 npm start
 ```
+## Live Demo
+Netlify Deploy: https://quotemachine-deskrel.netlify.app
 
