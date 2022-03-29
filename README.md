@@ -1,7 +1,12 @@
-# QUOTE MACHINE
+<h1 align="center">Welcome to QuoteMachine 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-An app made in react for posting phrases from celebrities
-on social media: twitter
+> This is an app made in react for posting phrases from celebrities on social media: twitter.
+
+### ✨ [Demo](https://quotemachine-deskrel.netlify.app)
+
 
 ## Componentes
 - App
@@ -9,13 +14,34 @@ on social media: twitter
 - QuoteAuthor
 - QuoteText
 
-## Installation
-```bash
-git clone https://github.com/IsmaelPSY/quoteMachine.git
-cd quoteMachine
+## Install
+
+```sh
 npm install
+```
+
+## Usage
+
+```sh
 npm start
 ```
-## Live Demo
-Netlify Deploy: https://quotemachine-deskrel.netlify.app
 
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **IsmaelPSY**
+
+* Github: [@IsmaelPSY](https://github.com/IsmaelPSY)
+* LinkedIn: [@www.linkedin.com\/in\/ismael-sanchez-pem](https://linkedin.com/in/www.linkedin.com\/in\/ismael-sanchez-pem)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
